@@ -1,5 +1,5 @@
 Machine Learning
-This repository contains a beginner-friendly implementation of linear regression from scratch using Python, NumPy, and Matplotlib. The project demonstrates the fundamentals of supervised learning by predicting housing prices based on house size.
+1...This repository contains a beginner-friendly implementation of linear regression from scratch using Python, NumPy, and Matplotlib. The project demonstrates the fundamentals of supervised learning by predicting housing prices based on house size.
 
 Input data: House size (in 1000 square feet)
 Target data: House price (in 1000s of dollars)
@@ -11,3 +11,6 @@ Load and visualize training data (scatter plot).
 Implement a linear model function to compute predictions.
 Plot the predicted line vs. actual data.
 Understand how model parameters affect predictions.
+
+2...The second file contains about vectorization in 1-D and 2-D datas
+Simple normal code that shows how vectorically we can achieve the result in far  more faster way so it is suitable or better to use the vectorizatin method.
