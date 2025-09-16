@@ -15,4 +15,6 @@ Understand how model parameters affect predictions.
 2...The second file contains about vectorization in 1-D and 2-D datas
 Simple normal code that shows how vectorically we can achieve the result in far  more faster way so it is suitable or better to use the vectorizatin method.
 
-3.The third file contains viulaizing the data through heatmaps in seaborn
+3.seaborn learning tutorial through the iri dataset
+
+4.The third file contains viulaizing the data through heatmaps in seaborn
