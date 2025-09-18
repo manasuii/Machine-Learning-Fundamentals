@@ -20,3 +20,4 @@ Simple normal code that shows how vectorically we can achieve the result in far 
 4.The third file contains viulaizing the data through heatmaps in seaborn
 5.the fourth file contains about vectors
 6.the fifth file contains some basic python revision exercises
+7.the 7th file contains gradient descent 
