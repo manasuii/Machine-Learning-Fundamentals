@@ -23,3 +23,4 @@ Simple normal code that shows how vectorically we can achieve the result in far 
 7.the 7th file contains gradient descent 
 8.the 8th file contains more on cost function
 9.the file constains about k-means clutering
+10.dimensionality in unsupercised learning
