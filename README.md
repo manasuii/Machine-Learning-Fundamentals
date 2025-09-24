@@ -25,3 +25,4 @@ Simple normal code that shows how vectorically we can achieve the result in far 
 9.the file constains about k-means clutering
 10.dimensionality in unsupercised learning
 11.anamoly detectiion in unsupervised learning
+12.univariet data analysis using seaborn and matplotlib
