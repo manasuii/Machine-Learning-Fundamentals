@@ -26,3 +26,4 @@ Simple normal code that shows how vectorically we can achieve the result in far 
 10.dimensionality in unsupercised learning
 11.anamoly detectiion in unsupervised learning
 12.univariet data analysis using seaborn and matplotlib
+13.All required fundamentals for computer vision
